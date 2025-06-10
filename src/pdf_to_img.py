@@ -1,6 +1,6 @@
 from pdf2image import convert_from_path
 import os
-POPPLET_BIN_PATH = r"poppler-24.08.0\Library\bin"
+POPPLET_BIN_PATH = None
 
 def convert_pdf_to_images(pdf_path, output_folder="output"):
     """Converts each page of a PDF into a JPEG image."""
