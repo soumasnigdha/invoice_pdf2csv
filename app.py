@@ -3,6 +3,7 @@ prompt = """
     Extract the following details from the invoice image(s).
     Pay close attention to table data, ensuring all line items are correctly extracted.
     If a field is not present, return null for that field.
+    IMPORTANT NOTE: Do not make up any data if you're unable to process it.
 
     Return the output as a JSON object.
 
