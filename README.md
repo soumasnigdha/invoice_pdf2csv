@@ -2,6 +2,13 @@
 
 This project provides a Streamlit web application that leverages the Gemini Vision model to extract structured data from PDF invoices and exports the extracted information into a clean, flattened CSV format.
 
+## Demo
+
+Demo of application live! You can try it out here:
+
+**Demo:** [https://invoicepdf2csv.streamlit.app/](https://invoicepdf2csv.streamlit.app/)
+
+
 ## Features
 
 -   **PDF Upload:** Easily upload multiple PDF invoice files.
