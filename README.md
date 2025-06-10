@@ -4,9 +4,7 @@ This project provides a Streamlit web application that leverages the Gemini Visi
 
 ## Demo
 
-Demo of application live! You can try it out here:
-
-**Demo:** [https://invoicepdf2csv.streamlit.app/](https://invoicepdf2csv.streamlit.app/)
+Demo of application live! You can try it out here: [https://invoicepdf2csv.streamlit.app/](https://invoicepdf2csv.streamlit.app/)
 
 
 ## Features
